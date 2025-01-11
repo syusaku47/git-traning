@@ -1,6 +1,6 @@
 console.log('tatsu');
 
-function add(){
+function sum2(){
 
 
 
